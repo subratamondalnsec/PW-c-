@@ -8,7 +8,7 @@ int main(){
         cin>>a;
     for(int i=1;i<=a;i++){//using doudle loop
          for(int j=1;j<=b;j++){
-        cout<<j<<" ";
+        cout<<(char)(j+64)<<" ";
     }
     cout<<endl;
     }

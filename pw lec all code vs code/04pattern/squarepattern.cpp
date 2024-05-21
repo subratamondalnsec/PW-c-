@@ -7,7 +7,7 @@ int main(){
      cout<<"Numder of colums of *:";
         cin>>a;
     for(int i=1;i<=a;i++){//using doudle loop
-         for(int i=1;i<=b;i++){
+         for(int j=1;j<=b;j++){
         cout<<" * ";
     }
     cout<<endl;
